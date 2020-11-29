@@ -8,8 +8,13 @@ Esse scritp é baseado no script do Luciano Ribeiro <lucianorstech@gmail.com> e 
 
 # Como executar
 
-1. Baixar o script
+1. Baixar o script `install_adianti-studio.sh`
 1. abrir um terminal e acessar a pasta de downloado
 1. Executar `chmod +x install_adianti-studio.sh`
 1. Executar `./install_adianti-studio.sh`
 1. Seja feliz Yeeeee !!!!
+
+
+# Dica !!
+
+Se alterar o tema do Ubuntu ou Xubuntu para Dark o Adianti Studio tambem ficará Dark
