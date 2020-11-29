@@ -2,7 +2,9 @@
 Script de instalação do Adianti Stuidio para Ubuntu 20.10
 
 
-Esse scritp é baseado no script do Luciano Ribeiro <lucianorstech@gmail.com> e no vídeo do FABRÍCIO ALMEIDA do Canal  DICAS DE ADIANTI FRAMEWORK [![Link do vídeo no YouTube](http://img.youtube.com/vi/POPdvCor_9w/0.jpg)](http://www.youtube.com/watch?v=POPdvCor_9w " Adianti Studio - Instalação no Linux")
+Esse scritp é baseado no script do Luciano Ribeiro <lucianorstech@gmail.com> e no vídeo do FABRÍCIO ALMEIDA do Canal [DICAS DE ADIANTI FRAMEWORK ](https://www.youtube.com/channel/UCkPWFf5GMmA4cOPwBrmeoSw)
+
+[![Link do vídeo no YouTube](http://img.youtube.com/vi/POPdvCor_9w/0.jpg)](http://www.youtube.com/watch?v=POPdvCor_9w " Adianti Studio - Instalação no Linux")
 
 # Como executar
 
